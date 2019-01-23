@@ -1,0 +1,16 @@
+com\ECFW\ActiTimeGENERIC\Listener.class
+com\ECFW\ActiTimePOM\OpenTaskPage.class
+com\ECFW\ActitimeTEST\TestDeleteTask.class
+com\ECFW\ActiTimeGENERIC\Screenshot.class
+com\ECFW\ActiTimeGENERIC\CommonWebDriveractions.class
+com\ECFW\ActiTimeGENERIC\AutoConstants.class
+com\ECFW\ActiTimeGENERIC\ExcelUtils.class
+com\ECFW\ActitimeTEST\TestActitimeLogin.class
+com\ECFW\ActiTimeGENERIC\PropertyFileHandle.class
+com\ECFW\ActitimeTEST\BaseTest.class
+com\ECFW\ActiTimeGENERIC\ExcelHandle.class
+com\ECFW\ActiTimePOM\ActitimeLoginPage.class
+com\ECFW\ActiTimePOM\ActiveProjectsPage.class
+com\ECFW\ActitimeTEST\DataProviderTest.class
+com\ECFW\ActiTimePOM\BasePage.class
+com\ECFW\ActitimeTEST\TestArchiveProject.class
