@@ -22,7 +22,7 @@ public class Screenshot implements AutoConstants
 		String str = f.format(d);
 		TakesScreenshot shot=(TakesScreenshot)driver;
 		File src=shot.getScreenshotAs(OutputType.FILE);
-		String path = System.getProperty("user.dir")+"/screenshot/"+name+str+".jpg";
+		String path = System.getProperty("user.dir")+"/screenshot/"+name+str+".png";
 		File dest=new File(path);
 		try 
 		{
